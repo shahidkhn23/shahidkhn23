@@ -6,8 +6,8 @@ Informatik student (AI specialisation) at TH Rosenheim, based in Munich. I build
 
 **What I've built** ([portfolio repo](https://github.com/shahidkhn23/automation-ai-portfolio))
 
-- **[Student Rights Check](https://github.com/shahidkhn23/automation-ai-portfolio/tree/main/05-student-rights-check)**: an AI agent that checks students' contracts and answers questions about their rights in Germany, citing only from 50 hand-verified legal rules
-- **[Rentora Support Agent](https://github.com/shahidkhn23/automation-ai-portfolio/tree/main/03-ai-support-agent)**: a bilingual support agent with tool calling, a privacy check inside the tool and 20 evals
+- **[Student Rights Check](https://github.com/shahidkhn23/student-rights-check)**: an AI agent that checks students' contracts and answers questions about their rights in Germany, citing only from 50 hand-verified legal rules
+- **[Rentora Support Agent](https://github.com/shahidkhn23/rentora-support-agent)**: a bilingual support agent with tool calling, a privacy check inside the tool and 20 evals
 - **[n8n](https://github.com/shahidkhn23/automation-ai-portfolio/tree/main/01-n8n-review-intelligence)** and **[Zapier](https://github.com/shahidkhn23/automation-ai-portfolio/tree/main/02-zapier-event-lead-autopilot)** workflows that triage reviews and turn sign-ups into leads
 - **[Coding Assistant Evaluation](https://github.com/shahidkhn23/automation-ai-portfolio/tree/main/06-coding-assistant-eval)**: comparing AI coding assistants with hidden tests instead of gut feeling
 
