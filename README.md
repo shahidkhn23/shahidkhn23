@@ -6,7 +6,7 @@ Informatik student (AI specialisation) at TH Rosenheim, based in Munich. I build
 
 **What I've built** ([portfolio repo](https://github.com/shahidkhn23/automation-ai-portfolio))
 
-- **[Student Rights Check](https://github.com/shahidkhn23/student-rights-check)**: an AI agent that checks students' contracts and answers questions about their rights in Germany, citing only from 400 hand-verified legal rules
+- **[Student Rights Check](https://github.com/shahidkhn23/student-rights-check)**: an AI agent that checks students' contracts and answers questions about their rights in Germany, citing only from 600 hand-verified legal rules
 - **[Rentora Support Agent](https://github.com/shahidkhn23/rentora-support-agent)**: a bilingual support agent with tool calling, a privacy check inside the tool and 20 evals
 - **[n8n](https://github.com/shahidkhn23/automation-ai-portfolio/tree/main/01-n8n-review-intelligence)** and **[Zapier](https://github.com/shahidkhn23/automation-ai-portfolio/tree/main/02-zapier-event-lead-autopilot)** workflows that triage reviews and turn sign-ups into leads
 - **[Contract Deadline Guard](https://github.com/shahidkhn23/automation-ai-portfolio/tree/main/07-n8n-contract-deadline-guard)**: an n8n flow that finds the notice period in a contract and sends a calendar reminder before the last day to cancel
